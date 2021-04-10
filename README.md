@@ -1,13 +1,13 @@
 # ATM_Interface
 
 
-<img src="https://github.com/mmahmoudothman/ATM_Interface/blob/main/0.PNG" width="1000" height="600" >  
-<img src="https://github.com/mmahmoudothman/ATM_Interface/blob/main/1.PNG" width="1000" height="600">
-<img src="https://github.com/mmahmoudothman/ATM_Interface/blob/main/2.PNG" width="1000" height="600">
-<img src="https://github.com/mmahmoudothman/ATM_Interface/blob/main/3.PNG" width="1000" height="600">
-<img src="https://github.com/mmahmoudothman/ATM_Interface/blob/main/4.PNG" width="1000" height="600">
-<img src="https://github.com/mmahmoudothman/ATM_Interface/blob/main/0000.PNG" width="1000" height="600">
-<img src="https://github.com/mmahmoudothman/ATM_Interface/blob/main/786783.PNG" width="1000" height="600">
+<img src="https://github.com/javacoder525/ATM_INTERFCE/blob/main/0.PNG" width="1000" height="600" >  
+<img src="https://github.com/javacoder525/ATM_INTERFCE/blob/main/1.PNG" width="1000" height="600">
+<img src="https://github.com/javacoder525/ATM_INTERFCE/blob/main/2.PNG" width="1000" height="600">
+<img src="https://github.com/javacoder525/ATM_INTERFCE/blob/main/3.PNG" width="1000" height="600">
+<img src="https://github.com/javacoder525/ATM_INTERFCE/blob/main/4.PNG" width="1000" height="600">
+<img src="https://github.com/javacoder525/ATM_INTERFCE/blob/main/0000.PNG" width="1000" height="600">
+<img src="https://github.com/javacoder525/ATM_INTERFCE/blob/main/786783.PNG" width="1000" height="600">
 
 
 
